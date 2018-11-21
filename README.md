@@ -4,7 +4,7 @@
 
 # Sample HTML website 
 
-Sample HTML/CSS web app that you can deploy to Azure.5
+Sample HTML/CSS web app that you can deploy to Azure.6
 
 ## License
 
